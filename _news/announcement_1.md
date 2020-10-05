@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-07-02 00:00:00-0700
 inline: true
 ---
 
-A simple inline announcement.
+Our paper "[Deep Multi Depth Panoramas for View Synthesis](https://arxiv.org/abs/2008.01815)" got accepted by ECCV 2020.
